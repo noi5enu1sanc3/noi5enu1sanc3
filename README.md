@@ -1,5 +1,5 @@
 
-I'm a beginner frontend developer and p5.js enthusiast.
+I'm a beginner frontend developer and p5.js enthusiast
 
 ### Some of my p5.js + Matter.js sketches:
 [interactive JavaScript sketches](https://openprocessing.org/user/282148/?o=9&view=sketches)
