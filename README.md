@@ -1,10 +1,10 @@
 ### ヾ(･|
 I'm a beginner frontend developer and p5.js enthusiast.
 
-# Some of my p5.js + Matter.js sketches:
-[OpenProcessing Profile](https://openprocessing.org/user/282148/?o=9&view=sketches)
+### Some of my p5.js + Matter.js sketches:
+[interactive JavaScript sketches](https://openprocessing.org/user/282148/?o=9&view=sketches)
 
-# Stack:
+### Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
