@@ -1,4 +1,4 @@
-### ヾ(･|
+
 I'm a beginner frontend developer and p5.js enthusiast.
 
 ### Some of my p5.js + Matter.js sketches:
