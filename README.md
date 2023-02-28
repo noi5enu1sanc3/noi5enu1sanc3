@@ -8,7 +8,7 @@ I'm a beginner frontend developer and also:
 "The Nature of Code" by Daniel Shiffman is what got me into this ▓▒░(°◡°)░▒▓ I started learning Processing and p5.js as an artist – and then I found myself fascinated by coding
 
 ### Some of my p5.js + Matter.js sketches:
-[](https://openprocessing.org/user/282148/?o=9&view=sketches)
+[openprocessing.org/user/282148/](https://openprocessing.org/user/282148/?o=9&view=sketches)
 
 ### Stack:
 <div align="left">
